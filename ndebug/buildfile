@@ -1,0 +1,4 @@
+exe{ndebug}: {hxx ixx txx cxx}{**}
+{
+  test = true
+}
