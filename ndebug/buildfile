@@ -2,3 +2,5 @@ exe{ndebug}: {hxx ixx txx cxx}{**}
 {
   test = true
 }
+
+cc.poptions += -DNDEBUG
